@@ -42,8 +42,7 @@ user.csv: It contains information of the users who have rated the movies.
 
 
 Outcome:
+    
     Exploratory Data Analysis
-
     Visualization using Python
-
     Pandas – groupby, merging
